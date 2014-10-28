@@ -4,5 +4,8 @@ main()
     hallo (nix)...
     extended
 test!
+
+JOH - TEST
+
 -- 20141027 Ich ändere das mal hier bei meinem Github account
 -- 20141028 eine weitere Änderung in dem geforkten Code von Johannes
