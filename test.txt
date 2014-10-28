@@ -4,3 +4,5 @@ main()
     hallo (nix)...
     extended
 test!
+-- 20141028 durch click auf den "edit stift" button forke ich deinen code und kann diese änderung vornehmen
+--          und durch "propose file change" lege ich dir das zum committen vor right?
